@@ -1,0 +1,4 @@
+11/06 12:51:16 SEVERE agentware.SimClient|************************************************************
+11/06 12:51:16 SEVERE agentware.SimClient|* Authentication Failed
+11/06 12:51:16 SEVERE agentware.SimClient|* could not login as test: No user with name 'test' found
+11/06 12:51:16 SEVERE agentware.SimClient|************************************************************
